@@ -2,6 +2,7 @@
 
 Repositorio correspondiente al **Laboratorio 2 – GitHub**.
 
+
 ---
 
 ## Información General
@@ -35,3 +36,10 @@ Desarrollar las actividades correspondientes al Laboratorio 2, aplicando buenas 
 ├── src/
 ├── docs/
 └── .gitignore
+=======
+Team Members: Nelson Fernando Ferrucho - nferrucho@unal.edu.co 
+Hever Dunoy Ballesta - hdballestan@unal.edu.co
+Omar Pinzon Ardila - omar.pinzon@gmail.com
+Diana Fernanda Reyes Marciales - direyesma@unal.edu.co
+
+Test desde consola
